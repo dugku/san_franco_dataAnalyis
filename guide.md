@@ -47,6 +47,10 @@ As for libraries we are using:
 - numpy
 - Sklearn
 - Seabron (with matplotlib)
+- scikit-learn
+- pyro
+- *More will some since pyro needs more than one library*
+
 
 
 
