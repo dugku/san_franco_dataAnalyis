@@ -52,6 +52,25 @@ As for libraries we are using:
 - *More will some since pyro needs more than one library*
 
 
+# TODO
+John:
+- cross validation for all the freqentist model
+- better model metrics : accuracy, precision, recall, the F1 score, and the confusion matrix (I kindaalready added this it just needs to be better outputted so that we can just paste into latex
+- hyper parameter tuning
+- Do the xgboosted Random Forest
+
+Michael:
+- Bayesian Logistic Regression
+- BART Model
+- Bayesian heirarcheliel model
+- Then model statistics for this stuff
+
+Together:
+Once we are done hopefully by the 5th of Nov, we will start the presentation making process and making the paper since.
+Sine we are kinda doing a lot we need to be detailed in the paper but I think this will be good pracice for anyother future stuff we do.
+
+
+
 
 
 
