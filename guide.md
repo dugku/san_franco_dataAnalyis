@@ -66,8 +66,9 @@ Michael:
 - Then model statistics for this stuff
 
 Together:
-Once we are done hopefully by the 5th of Nov, we will start the presentation making process and making the paper since.
-Sine we are kinda doing a lot we need to be detailed in the paper but I think this will be good pracice for anyother future stuff we do.
+Once we are done hopefully by the 5th of Nov, we will start the presentation making process and making the paper.
+Since we are kinda doing a lot we need to be detailed in the paper but I think this will be good pracice for anyother future stuff we do.
+
 
 
 
